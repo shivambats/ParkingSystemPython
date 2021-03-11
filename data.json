@@ -1,0 +1,80 @@
+{
+  "floor": [{
+    "id": 1,
+    "entries": [
+      {
+        "id": 1,
+        "spots": [
+          {"name":  "1A",
+          "size":  "BIG",
+          "distance":  10,
+          "vacant":  true},
+          {"name":  "1B",
+          "size":  "BIG",
+          "distance":  15,
+          "vacant":  true},
+          {"name":  "1C",
+          "size":  "BIG",
+          "distance":  20,
+          "vacant":  true}
+        ]
+      },
+      {
+        "id": 2,
+        "spots": [
+          {"name":  "1C",
+          "size":  "BIG",
+          "distance":  10,
+          "vacant":  true},
+          {"name":  "1B",
+          "size":  "BIG",
+          "distance":  15,
+          "vacant":  true},
+          {"name":  "1A",
+          "size":  "BIG",
+          "distance":  20,
+          "vacant":  true}
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "entries": [
+      {
+        "id": 1,
+        "spots": [
+          {"name":  "2A",
+          "size":  "BIG",
+          "distance":  10,
+          "vacant":  true},
+          {"name":  "2B",
+          "size":  "BIG",
+          "distance":  15,
+          "vacant":  true},
+          {"name":  "2C",
+          "size":  "BIG",
+          "distance":  20,
+          "vacant":  true}
+        ]
+      },
+      {
+        "id": 2,
+        "spots": [
+          {"name":  "2C",
+          "size":  "BIG",
+          "distance":  10,
+          "vacant":  true},
+          {"name":  "2B",
+          "size":  "BIG",
+          "distance":  15,
+          "vacant":  true},
+          {"name":  "2A",
+          "size":  "BIG",
+          "distance":  20,
+          "vacant":  true}
+        ]
+      }
+    ]
+  }]
+}
