@@ -5,6 +5,9 @@ python -i system.py
 
 ```
 system.park_vehicle("DL-1244", "BIG")
+system.park_vehicle("DL-1245", "SMALL")
+
+system.exit_vehicle("d7557950-36b3-4023-82cd-44cee0d50651")
 ```
 
 - Parking Lot can have multiple floors
