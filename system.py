@@ -53,4 +53,4 @@ class System:
             self.floor.vacant_trigger_other_entry_exit(car.spot)
 
 
-s = System(parking_lot.floors[0], parking_lot.floors[0].entry_exit[0])
+system = System(parking_lot.floors[0], parking_lot.floors[0].entry_exit[0])
